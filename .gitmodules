@@ -1,12 +1,12 @@
 [submodule "function"]
 	path = function
-	url = https://github.com/BiliUniverse/function.git
+	url = https://github.com/Biliverse/function.git
 [submodule "protobuf"]
 	path = protobuf
-	url = https://github.com/BiliUniverse/protobuf.git
+	url = https://github.com/Biliverse/protobuf.git
 [submodule "example"]
 	path = example
-	url = https://github.com/BiliUniverse/example.git
+	url = https://github.com/Biliverse/example.git
 [submodule "BoxJs"]
 	path = BoxJs
-	url = https://github.com/BiliUniverse/BoxJs.git
+	url = https://github.com/Biliverse/BoxJs.git
